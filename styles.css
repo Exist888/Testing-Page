@@ -1,0 +1,23 @@
+body {
+    color: #fcfcfd;
+    background: linear-gradient(to right, #001b75, #3c404d);
+    font-family: Tahoma, sans-serif;
+    margin: 0;
+    padding: 20px 80px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 45px;
+}
+
+p {
+    color: #d4d4e3;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+li {
+    color: #d4d4e3;
+    font-size: 18px;
+}
